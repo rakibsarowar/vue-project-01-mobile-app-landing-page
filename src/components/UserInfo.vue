@@ -20,3 +20,4 @@ const stats = [
     { id: 3, name: 'New users annually', value: '10,0000' },
 ]
 </script>
+<style></style>
