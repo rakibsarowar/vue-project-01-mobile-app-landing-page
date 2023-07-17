@@ -3,7 +3,7 @@
       <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div class="mx-auto max-w-2xl py-16 sm:py-24 lg:max-w-none lg:py-32">
           <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Meet our leadership</h2>
-          <h2 class="text-xl font-normal mt-3 text-gray-500">We’re a dynamic group of individuals who are passionate about what <br> we do and dedicated to delivering the best results for our clients.</h2>
+          <h2 class="mt-6 text-base leading-7 text-gray-600">We’re a dynamic group of individuals who are passionate about what <br> we do and dedicated to delivering the best results for our clients.</h2>
   
           <div class="mt-6 space-y-12 lg:grid lg:grid-cols-3 lg:gap-x-6 lg:space-y-0">
             <div v-for="callout in callouts" :key="callout.name" class="group relative">
@@ -49,3 +49,4 @@
     },
   ]
   </script>
+<style></style>

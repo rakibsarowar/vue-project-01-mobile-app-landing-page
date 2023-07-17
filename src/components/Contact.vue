@@ -44,6 +44,5 @@
 
 <script setup>
 import { ref } from 'vue'
-const agreed = ref(false)
 </script>
 <style></style>
