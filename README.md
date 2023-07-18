@@ -1,1 +1,6 @@
-"# vue-project-01-mobile-mobile-app-landing-page-" 
+ # Mix 📝  
+ A web design mobile app.
+
+  
+## Live Site Link ✨  
+https://mix-mobile-app.netlify.app/
